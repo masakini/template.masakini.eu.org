@@ -1,0 +1,3 @@
+User-agent: * 
+Allow: / 
+Sitemap: https://template.masakini.eu.org/sitemap.xml 
