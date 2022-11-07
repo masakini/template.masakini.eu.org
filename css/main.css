@@ -167,7 +167,7 @@ table.menulist   {
 th.menu          { 
                    text-align:center; 
                    width:20%; 
-                   font-size:12px; 
+                   font-size:11px; 
                    border:solid; 
                    border-width:2px; 
                    border-color:goldenrod; 
@@ -186,7 +186,7 @@ table.itemlist   {
 td.item          { 
                    text-align:center;
                    width:50%; 
-                   font-size:12px; 
+                   font-size:11px; 
                    border:solid; 
                    border-width:2px; 
                    border-color:goldenrod; 
